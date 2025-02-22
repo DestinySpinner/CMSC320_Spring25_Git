@@ -9,3 +9,7 @@ Answer: I think it can be applied to any field that handels data of any capacity
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging a branch combines it with main to update main, Rebasing takes a branch and makes that the new main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning about the statistics behind data science.
